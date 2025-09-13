@@ -10,6 +10,9 @@ This repository serves as a living record of my learning journey. Each project d
 
 Here are the projects featured in this portfolio:
 
+### [Color Markers](/color-markers) 
+A set of visually appealing CSS color markers demonstrating gradient techniques and box model styling.
+
 ### [Cafe Menu](/cafe-menu)
 A styled coffee shop menu page. Focuses on classic CSS styling techniques.
 
